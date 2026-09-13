@@ -1,0 +1,101 @@
+CUSTOMER_ID,CUSTOMER_NAME,GENDER,CUSTOMER_TIER,CITY,STATE
+CUST00034253,Amit Nair,male,Platinum,Durgapur,West Bengal
+CUST00027469,Aarav Gupta,male,Platinum,Dwarka,Delhi
+CUST00017326,Amina Khan,female,Platinum,Delhi NCR,Delhi
+CUST00004755,Kavya Agarwal,female,Platinum,Udaipur,Rajasthan
+CUST00035463,Suresh Sharma,male,Platinum,Jaipur,Rajasthan
+CUST00033303,Vishal Mehta,male,Platinum,Jodhpur,Rajasthan
+CUST00032054,Divya Patel,female,Platinum,Faridabad,Haryana
+CUST00020147,Jasleen Gill,female,Platinum,Mumbai,Maharashtra
+CUST00005911,Aisha Ansari,female,Platinum,Amritsar,Punjab
+CUST00017813,Vikas Singh,male,Platinum,Howrah,West Bengal
+CUST00026163,Harsh Iyer,male,Platinum,New Delhi,Delhi
+CUST00012217,Gaurav Sharma,male,Silver,Alwar,Rajasthan
+CUST00013748,Sandeep Brar,male,Platinum,Bangalore,Karnataka
+CUST00007327,Nikhil Sharma,male,Platinum,Panipat,Haryana
+CUST00037589,Swati Shah,female,Silver,Chennai,Tamil Nadu
+CUST00020345,Swati Nair,female,Platinum,Varanasi,UP
+CUST00017884,Anjali Singh,female,Gold,Kota,Rajasthan
+CUST00013858,Aisha Malik,female,Platinum,Mysore,Karnataka
+CUST00039925,Khalid Sheikh,male,Platinum,Ahmedabad,Gujarat
+CUST00020501,Aadhya Sharma,female,Platinum,Ludhiana,Punjab
+CUST00012044,Sana Sheikh,female,Platinum,Dwarka,Delhi
+CUST00001261,Ananya Kulkarni,female,Platinum,Jodhpur,Rajasthan
+CUST00004660,Navjot Brar,female,Platinum,Sohna,Haryana
+CUST00000454,Rajesh Singh,male,Gold,Ahmedabad,Gujarat
+CUST00000139,Aditya Singh,male,Gold,Durgapur,West Bengal
+CUST00037186,Neha Verma,female,Platinum,Ludhiana,Punjab
+CUST00008409,Ananya Kumar,female,Gold,Gurugram,Haryana
+CUST00008627,Pooja Gupta,female,Platinum,Jodhpur,Rajasthan
+CUST00006130,Suresh Joshi,male,Platinum,Coimbatore,Tamil Nadu
+CUST00035822,Rahul Singh,male,Platinum,Kanpur,UP
+CUST00018769,Pooja Mishra,female,Platinum,Dwarka,Delhi
+CUST00005251,Ayesha Malik,female,Platinum,Patiala,Punjab
+CUST00039204,Raj Yadav,male,Platinum,Vadodara,Gujarat
+CUST00006938,Akash Joshi,male,Platinum,Rajkot,Gujarat
+CUST00016475,Simran Iyer,female,Gold,Panipat,Haryana
+CUST00006957,Karan Sharma,male,Platinum,Durgapur,West Bengal
+CUST00031472,Gaurav Pandey,male,Platinum,Jaipur,Rajasthan
+CUST00011095,Nisha Kulkarni,female,Silver,Mangalore,Karnataka
+CUST00022584,Aisha Sheikh,female,Platinum,Lucknow,UP
+CUST00012429,Rajesh Mishra,male,Gold,Sohna,Haryana
+CUST00003920,Rajesh Agarwal,male,Platinum,Noida,UP
+CUST00012510,Arif Siddiqui,male,Platinum,Faridabad,Haryana
+CUST00030170,Abhishek Singh,male,Platinum,Madurai,Tamil Nadu
+CUST00012437,Akash Sharma,male,Platinum,Mumbai,Maharashtra
+CUST00001480,Raj Patel,male,Platinum,Dwarka,Delhi
+CUST00020895,Akash Kumar,male,Platinum,Faridabad,Haryana
+CUST00001407,Rajesh Kulkarni,male,Platinum,Panipat,Haryana
+CUST00013705,Vikas Singh,male,Platinum,Durgapur,West Bengal
+CUST00007399,Nisha Gupta,female,Platinum,Howrah,West Bengal
+CUST00003210,Aliya Malik,female,Platinum,Pune,Maharashtra
+CUST00008970,Arjun Yadav,male,Platinum,Chennai,Tamil Nadu
+CUST00037388,Nisha Yadav,female,Silver,Durgapur,West Bengal
+CUST00003584,Priya Agarwal,female,Platinum,Madurai,Tamil Nadu
+CUST00027114,Riya Kulkarni,female,Platinum,Mumbai,Maharashtra
+CUST00021993,Gaurav Patel,male,Platinum,Ahmedabad,Gujarat
+CUST00023035,Zara Siddiqui,female,Platinum,New Delhi,Delhi
+CUST00025901,Amina Khan,female,Platinum,Kota,Rajasthan
+CUST00018490,Priya Sharma,female,Platinum,Jodhpur,Rajasthan
+CUST00007706,Harsh Verma,male,Platinum,Dwarka,Delhi
+CUST00005146,Megha Tiwari,female,Gold,Jodhpur,Rajasthan
+CUST00013851,Neha Singh,female,Platinum,Howrah,West Bengal
+CUST00014006,Fatima Malik,female,Platinum,Jodhpur,Rajasthan
+CUST00001697,Hina Ahmed,female,Silver,New Delhi,Delhi
+CUST00016451,Fatima Khan,female,Platinum,Howrah,West Bengal
+CUST00016234,Karan Mehta,male,Platinum,Amritsar,Punjab
+CUST00023627,Ananya Shah,female,Gold,Surat,Gujarat
+CUST00003263,Divya Patel,female,Platinum,Coimbatore,Tamil Nadu
+CUST00006662,Raj Joshi,male,Gold,Mangalore,Karnataka
+CUST00019254,Divya Sharma,female,Platinum,Thane,Maharashtra
+CUST00025141,Aisha Sheikh,female,Platinum,Jalandhar,Punjab
+CUST00028490,Pooja Tiwari,female,Platinum,Thane,Maharashtra
+CUST00006575,Aisha Siddiqui,female,Platinum,Kolkata,West Bengal
+CUST00030197,Akash Kumar,male,Platinum,Dwarka,Delhi
+CUST00038287,Harsh Mishra,male,Platinum,Ludhiana,Punjab
+CUST00033645,Salman Pathan,male,Platinum,Amritsar,Punjab
+CUST00032387,Raj Iyer,male,Platinum,Lucknow,UP
+CUST00024326,Aditya Joshi,male,Platinum,Coimbatore,Tamil Nadu
+CUST00004238,Shreya Joshi,female,Platinum,Howrah,West Bengal
+CUST00031228,Amandeep Dhillon,male,Platinum,Faridabad,Haryana
+CUST00032261,Shreya Shah,female,Platinum,Palwal,Haryana
+CUST00035908,Harleen Brar,female,Platinum,Gurugram,Haryana
+CUST00015511,Akash Yadav,male,Platinum,Faridabad,Haryana
+CUST00030247,Nikhil Nair,male,Platinum,Kota,Rajasthan
+CUST00006968,Aditya Tiwari,male,Gold,Madurai,Tamil Nadu
+CUST00005088,Simran Patel,female,Platinum,Gurugram,Haryana
+CUST00007974,Divya Tiwari,female,Platinum,Panipat,Haryana
+CUST00004778,Raj Mehta,male,Platinum,Jodhpur,Rajasthan
+CUST00024517,Suresh Nair,male,Platinum,Durgapur,West Bengal
+CUST00007628,Shreya Tiwari,female,Gold,Durgapur,West Bengal
+CUST00035969,Aditya Pandey,male,Silver,Surat,Gujarat
+CUST00017644,Jasleen Grewal,female,Gold,Varanasi,UP
+CUST00027361,Rajesh Iyer,male,Platinum,Alwar,Rajasthan
+CUST00023123,Jaspreet Gill,male,Platinum,Surat,Gujarat
+CUST00011290,Anjali Verma,female,Platinum,Kanpur,UP
+CUST00007881,Amina Ahmed,female,Platinum,Ahmedabad,Gujarat
+CUST00035365,Priya Agarwal,female,Platinum,Amritsar,Punjab
+CUST00026339,Neha Shah,female,Platinum,Jaipur,Rajasthan
+CUST00014191,Riya Sharma,female,Gold,Howrah,West Bengal
+CUST00004382,Karan Yadav,male,Platinum,Kolkata,West Bengal
+CUST00008849,Sana Ansari,female,Gold,Surat,Gujarat
