@@ -6,7 +6,7 @@ An enterprise-grade, end-to-end cloud data engineering pipeline implementing a *
 
 ## 🏗️ System Architecture & Data Flow
 
-![Architecture Dia(architecture.png)
+![Architecture Diagram](architecture.png)
 
 ---
 
