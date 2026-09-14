@@ -3,7 +3,7 @@ CREATE OR REPLACE STORAGE INTEGRATION s3_indian_retail_integration
   STORAGE_PROVIDER = 'S3'
   ENABLED = TRUE
   STORAGE_ALLOWED_LOCATIONS = ('s3://indian-retail-analytics-landing-zone/landing/')
-  STORAGE_AWS_ROLE_ARN = 'arn:aws:iam::767397728224:role/Snowflake_Storage_Integration_Role';
+  STORAGE_AWS_ROLE_ARN = 'arn:aws:iam::xxxxxxxxxxx:role/Snowflake_Storage_Integration_Rol';
 
 DESCRIBE INTEGRATION s3_indian_retail_integration;
 
