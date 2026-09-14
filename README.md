@@ -219,7 +219,7 @@ Designed for high-level stakeholders to monitor operational pacing, macro-level 
 
 ### 🔍 Page 2: Deep-Dive Analytics
 Designed for operational managers to cross-examine customer demographics, channel liabilities, and asset distributions.
-![performance matrxi](performance matrix.png)
+![performance matrxi](performance_matrix.png)
 #### 4. Product Performance Dynamics: Growth-Share Matrix (Scatter Chart)
 *   **What it Represents:** A custom variation of a Boston Consulting Group (BCG) portfolio matrix. It categorizes every product in the inventory into strategic management classifications based on market demand and profitability.
 *   **Configuration:** 
