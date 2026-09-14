@@ -57,8 +57,8 @@ The project processes a relational Indian E-Commerce dataset across three primar
 ## 📂 Repository File Structure
 ```text
 ├── .github/                       # GitHub workflow actions
-├── snowflake_pipeline_setup.sql   # Consolidated Gold/Silver/Bronze DDL & Tasks scripts
-├── databricks_pipeline.py         # Clean Python CDC transformation notebook code
+├── snowflake_pipeline_setup.sql   # Consolidated Gold/Silver/Bronze DDL & Tasks scripts in snowflake
+├── indian_retail_transformation_pipeline.ipynb   # Clean Python CDC transformation notebook code in databricks
 └── README.md                      # Documentation file
 ```
 
@@ -68,4 +68,4 @@ The project processes a relational Indian E-Commerce dataset across three primar
 
 1. **Database Script Deployment:** Execute the complete `snowflake_pipeline_setup.sql` script inside your Snowflake worksheet console to initialize databases, pipelines, roles, and schema infrastructure.
 2. **AWS Cloud Event Linkage:** Copy the generated SQS ARN string from the Snowflake pipe parameters list and attach it as an active **All Object Created Event Notification** inside your target S3 bucket properties.
-3. **Databricks Execution Context:** Open Databricks, link it to your GitHub Repository folder, paste the `databricks_pipeline.py` file, fill out the environment variables widget panel, and run the pipeline!
+3. **Databricks Execution Context:** Open Databricks, link it to your GitHub Repository folder, paste the `indian_retail_transformation_pipeline.ipynb` file, fill out the environment variables widget panel, and run the pipeline!
