@@ -198,6 +198,7 @@ The dashboard is structured into an intuitive, two-page enterprise layout with s
 
 ### 📱 Page 1: Executive Overview
 Designed for high-level stakeholders to monitor operational pacing, macro-level regional growth, and goal benchmarks.
+![overview](overview.png)
 
 #### 1. Executive Core KPI Blocks (New Card Visual)
 *   **What it Represents:** Tracks overall company performance parameters instantly, providing immediate access to aggregate cash inflow, order count volumes, and velocity rates.
@@ -218,7 +219,7 @@ Designed for high-level stakeholders to monitor operational pacing, macro-level 
 
 ### 🔍 Page 2: Deep-Dive Analytics
 Designed for operational managers to cross-examine customer demographics, channel liabilities, and asset distributions.
-
+![performance matrxi](performance matrix.png)
 #### 4. Product Performance Dynamics: Growth-Share Matrix (Scatter Chart)
 *   **What it Represents:** A custom variation of a Boston Consulting Group (BCG) portfolio matrix. It categorizes every product in the inventory into strategic management classifications based on market demand and profitability.
 *   **Configuration:** 
